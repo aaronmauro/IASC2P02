@@ -45,9 +45,9 @@ This is HTML markup:
 
 Your results page will likely include the data visualizations and other *results* related to your project. You may include sample data or links to your tools. 
 
-<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1t0QKCCI9H5XNumtxtcfoCju6yH5E0c7sw3eYvCcSOXk&font=Default&lang=en&initial_zoom=2&height=650">
 ![timeline image](timeline.png)
-</a>
+[View Live Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1t0QKCCI9H5XNumtxtcfoCju6yH5E0c7sw3eYvCcSOXk&font=Default&lang=en&initial_zoom=2&height=650)
+
     
 Static images can be embedded here to show results:
 
