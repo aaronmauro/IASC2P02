@@ -45,8 +45,10 @@ This is HTML markup:
 
 Your results page will likely include the data visualizations and other *results* related to your project. You may include sample data or links to your tools. 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1t0QKCCI9H5XNumtxtcfoCju6yH5E0c7sw3eYvCcSOXk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
+<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1t0QKCCI9H5XNumtxtcfoCju6yH5E0c7sw3eYvCcSOXk&font=Default&lang=en&initial_zoom=2&height=650">
+![timeline image](timeline.png)
+</a>
+    
 Static images can be embedded here to show results:
 
 ![this is alt text](Animated_phenakistiscope_disc_-_Running_rats_Fantascope_by_Thomas_Mann_Baynes_1833.gif)
